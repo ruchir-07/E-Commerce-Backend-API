@@ -1,5 +1,5 @@
-# Triveous E-commerce-backend API documentation
-- This repository contains API documentation for Triveous E-commerce-backend 
+# E-commerce-backend API documentation
+- This repository contains API documentation for E-commerce-backend 
 - 
 
 ## 1. Overview
@@ -286,7 +286,3 @@
         - 401 (Token missing): `{"msg":"token must be needed for generating tickets... go for login or signup"}`
          - 400 (missing or Invalid credentails): `{ errors: errors.array() }`
          - 404 (Did not found): `{"msg":"You are not authorized as a admin"}`
-
-# Demo
-
-  (`https://drive.google.com/file/d/1RhrRwZeRSOjYoh9yFms4y6_AE234ZwNs/view?usp=sharing`)
